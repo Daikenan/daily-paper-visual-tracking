@@ -1,4 +1,4 @@
-﻿## Visual Trackers for Single Object
+﻿## Single Object Tracking
 
 -----------------------
 ### Long-Term Tracking
