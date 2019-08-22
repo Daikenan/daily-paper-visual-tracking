@@ -186,3 +186,6 @@
 * **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
   "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
+  
+﻿## Multi Object Tracking
+* **MDP:** Yu Xiang, Alexandre Alahi, and Silvio Savarese. "Learning to Track: Online Multi-Object Tracking by Decision Making."ICCV( 2015).
